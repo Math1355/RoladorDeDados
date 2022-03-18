@@ -1,0 +1,11 @@
+C:\Users\manij\OneDrive\Documentos\programação\C#\Livro\C# e Orientação a Objetos Curso FN-13\Projeto Livro jogo com base no livro\LivroJogo\LivroJogo\bin\Debug\LivroJogo.exe.config
+C:\Users\manij\OneDrive\Documentos\programação\C#\Livro\C# e Orientação a Objetos Curso FN-13\Projeto Livro jogo com base no livro\LivroJogo\LivroJogo\bin\Debug\LivroJogo.exe
+C:\Users\manij\OneDrive\Documentos\programação\C#\Livro\C# e Orientação a Objetos Curso FN-13\Projeto Livro jogo com base no livro\LivroJogo\LivroJogo\bin\Debug\LivroJogo.pdb
+C:\Users\manij\OneDrive\Documentos\programação\C#\Livro\C# e Orientação a Objetos Curso FN-13\Projeto Livro jogo com base no livro\LivroJogo\LivroJogo\obj\Debug\LivroJogo.csproj.AssemblyReference.cache
+C:\Users\manij\OneDrive\Documentos\programação\C#\Livro\C# e Orientação a Objetos Curso FN-13\Projeto Livro jogo com base no livro\LivroJogo\LivroJogo\obj\Debug\LivroJogo.Properties.Resources.resources
+C:\Users\manij\OneDrive\Documentos\programação\C#\Livro\C# e Orientação a Objetos Curso FN-13\Projeto Livro jogo com base no livro\LivroJogo\LivroJogo\obj\Debug\LivroJogo.csproj.GenerateResource.cache
+C:\Users\manij\OneDrive\Documentos\programação\C#\Livro\C# e Orientação a Objetos Curso FN-13\Projeto Livro jogo com base no livro\LivroJogo\LivroJogo\obj\Debug\LivroJogo.csproj.CoreCompileInputs.cache
+C:\Users\manij\OneDrive\Documentos\programação\C#\Livro\C# e Orientação a Objetos Curso FN-13\Projeto Livro jogo com base no livro\LivroJogo\LivroJogo\obj\Debug\LivroJogo.exe
+C:\Users\manij\OneDrive\Documentos\programação\C#\Livro\C# e Orientação a Objetos Curso FN-13\Projeto Livro jogo com base no livro\LivroJogo\LivroJogo\obj\Debug\LivroJogo.pdb
+C:\Users\manij\OneDrive\Documentos\programação\C#\Livro\C# e Orientação a Objetos Curso FN-13\Projeto Livro jogo com base no livro\LivroJogo\LivroJogo\obj\Debug\LivroJogo.Frm_Result_Dados.resources
+C:\Users\manij\OneDrive\Documentos\programação\C#\Livro\C# e Orientação a Objetos Curso FN-13\Projeto Livro jogo com base no livro\LivroJogo\LivroJogo\obj\Debug\LivroJogo.Frm_Rolador_De_Dados.resources
